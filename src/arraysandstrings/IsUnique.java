@@ -22,7 +22,7 @@ public class IsUnique {
 			
 			if(asciiMap[c])
 			{
-				return false;
+				return false;  
 			}
 			
 			asciiMap[c]=true;
